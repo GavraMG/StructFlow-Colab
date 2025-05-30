@@ -80,7 +80,7 @@ Choose how you'd like to generate your recipe files:
 
 ```python
 recipe_mode = "both"  # Options: "curated", "auto", "both"
-
+```
 # 🔧 Definitions:
 
 "curated" – Generates a recipe using manually curated homology models and experimentally validated PDB structures.
