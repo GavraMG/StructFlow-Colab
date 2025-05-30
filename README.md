@@ -165,4 +165,3 @@ You’ll see the CellPACK-GPU interface, similar to a Unity-based simulation win
 Second-year Software Engineering students at the University of Guelph, with a focus on applying computational tools to real-world scientific challenges.
 
 
-### Pushing the boundaries of what's possible—one cell at a time.
